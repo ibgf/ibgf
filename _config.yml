@@ -1,0 +1,21 @@
+title: IBGF - International Board Games Federation
+description: Official website of the International Board Games Federation (IBGF)
+baseurl: ""
+url: "https://ibgf.github.io"
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+language: "en"
+
+languages:
+  - en
+  - fr
+  - de
+  - zh
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
