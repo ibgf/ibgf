@@ -16,7 +16,10 @@ lang: en
 </div>
 
 <div class="section">
-  <h2>About the Association</h2>
+  <h2>Your Choices. Your Story.</h2>
+  <p>
+    Like a novel that comes to life, board games invite you not just to follow a story — but to shape it, through your own decisions and imagination.
+  </p>
   <p>
     The International Board Games Federation (IBGF), officially registered in France under the 1901 Law governing non-profit associations, is a legally recognized international organization headquartered in Issy-les-Moulineaux, France.
   </p>
