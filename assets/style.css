@@ -21,7 +21,8 @@ body {
   align-items: center;
 }
 .logo-link img.small-logo {
-  height: 50px;
+  height: 80px;
+  width: auto;
 }
 nav a {
   color: white;
@@ -38,7 +39,11 @@ nav a:hover {
   background-color: white;
 }
 .hero .logo {
-  max-width: 120px;
+  max-width: 160px;
+  height: auto;
+  margin: 1rem auto;
+  display: block;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 .hero h1 {
   margin: 0.5rem 0;
