@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-lang: en
+title: À propos
+lang: fr
 ---
 
 ## À propos de l'IBGF
