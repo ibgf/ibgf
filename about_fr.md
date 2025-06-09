@@ -1,7 +1,10 @@
+---
+layout: default
+title: About
+lang: en
+---
 
-
-
-À propos de l'IBGF
+## À propos de l'IBGF
 
 La Fédération Internationale des Jeux de Société (FIJS), connue en anglais sous le nom de International Board Games Federation (IBGF), est une association internationale à but non lucratif, régie par la loi française du 1er juillet 1901. Son siège est situé à Issy-les-Moulineaux, en France.
 
